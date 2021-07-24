@@ -1,0 +1,4 @@
+#!/bin/bash
+
+locations['bashrc']="$HOME/.bashrc"
+locations['profile']="$HOME/.profile"
